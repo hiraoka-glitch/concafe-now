@@ -30,3 +30,4 @@ export default function Home() {
     </div>
   )
 }
+/* Vercel deployment trigger - Wed Sep 10 19:49:21 JST 2025 */
