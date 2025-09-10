@@ -4,3 +4,4 @@
 Prismaやデータベース機能は含まれていません。
 
 デプロイ確認用の最小構成です。
+🚀 FINAL DEPLOYMENT - Wed Sep 10 20:04:32 JST 2025
